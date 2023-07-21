@@ -10,7 +10,7 @@
 
 ## Стек
 - Язык: `Java`
-- Фреймворки: `Spring Boot`, `Lombok`
+- Фреймворки: `Spring Boot`
 - СУБД: `PostgreSQL`
 - API-requests: `Postman`
 ## API
